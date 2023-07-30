@@ -6,7 +6,7 @@ const Head = () => {
         <section className='head'>
             <div className='container flexSB paddingTB'>
                 <div className='logo'>
-                    <img src="../images/christmas_2012_new_6518.jpg" alt="" />
+                    <img src="../images/ASM.png" alt="" />
                 </div>
                 <div className='ad'>
                     <img src="../images/" alt="" />
