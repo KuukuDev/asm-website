@@ -60,7 +60,7 @@ const Footer = () => {
             <div className="legal">
                 <div className="container flexSB">
                     <p>&copy; all rights reserved</p>
-                    <p>Company name</p>
+                    <p>Afica Sports Magazine</p>
                 </div>
             </div>
         </>

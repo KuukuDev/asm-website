@@ -7,7 +7,6 @@ const Head = () => {
             <div className='container flexSB paddingTB'>
                 <div className='logo'>
                     <img src="../images/ASM.png" alt="" />
-                    <span><p>A tag line goes here</p></span>
                 </div>
             </div>
         </section>
