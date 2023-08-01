@@ -33,7 +33,7 @@ const Footer = () => {
                     </div>
 
                     <div className="box">
-                        <h3></h3>
+                        <h3>TRENDING STORIES</h3>
                         <div className="item">
                             <img src="../images/hero/basketball4.jpg" alt="" />
                             <p>

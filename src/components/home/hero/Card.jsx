@@ -15,7 +15,7 @@ const Card = ({ item: { id, cover, category, title, authorName, authorImg, time 
                     </Link>
 
                     <div className="author flex">
-                        <span>by {authorName}</span>
+                        {/*<span>by {authorName}</span>*/}
                         <span>{time}</span>
                     </div>
                 </div>

@@ -2,9 +2,9 @@ export const hero = [
   {
     id: 1,
     cover: "../images/hero/football1.jpg",
-    category: "personality of the week",
+    category: "Football",
     title: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    authorName: "Kwadwo",
+    authorName: " ",
     authorImg: "../images/author.jpg",
     time: "5 Jun - 2023",
     desc: [
@@ -37,9 +37,9 @@ export const hero = [
   {
     id: 2,
     cover: "../images/hero/polandmen.jpg",
-    category: "volleyball",
+    category: "Volleyball",
     title: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-    authorName: "Alex",
+    authorName: " ",
     authorImg: "../images/author.jpg",
     time: "12 Aug - 2023",
     desc: [
@@ -72,9 +72,9 @@ export const hero = [
   {
     id: 3,
     cover: "../images/hero/boxing4.jpg",
-    category: "boxing",
+    category: "Boxing",
     title: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-    authorName: "Cynthia",
+    authorName: " ",
     authorImg: "../images/author.jpg",
     time: "22 Mar - 2023",
     desc: [
@@ -107,9 +107,9 @@ export const hero = [
   {
     id: 4,
     cover: "../images/hero/basketball6.jpg",
-    category: "basketball",
+    category: "Basketball",
     title: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-    authorName: "Ama",
+    authorName: " ",
     authorImg: "../images/author.jpg",
     time: "08 Dec - 2023",
     desc: [
@@ -338,7 +338,7 @@ export const post = [
     category: "football",
     title: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     date: "19. February 2023",
-    cover: "../images/post/football7.webp",
+    cover: "../images/post/kylian2.jpeg",
   },
   {
     id: 2,
@@ -349,17 +349,17 @@ export const post = [
   },
   {
     id: 3,
-    category: "tennis",
-    title: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    date: "19. February 2023",
-    cover: "../images/post/tennis3.jpg",
-  },
-  {
-    id: 4,
     category: "football",
     title: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
     date: "19. February 2023",
     cover: "../images/post/kylian2.jpeg",
+  },
+  {
+    id: 4,
+    category: "boxing",
+    title: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    date: "19. February 2023",
+    cover: "../images/post/shakur1.jpg",
   },
 ]
 /* export const lifestyle = [
