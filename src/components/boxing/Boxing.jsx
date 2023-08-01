@@ -1,14 +1,14 @@
 import React from 'react'
 import Heading from '../common/Heading/Heading'
 
-const Football = () => {
+const Boxing = () => {
     return (
         <>
             <section className="container">
-                <Heading title='FOOTBALL' />
+                <Heading title='BOXING' />
             </section>
         </>
     )
 }
 
-export default Football
+export default Boxing

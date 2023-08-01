@@ -17,7 +17,7 @@ const Footer = () => {
                         <span> +000 0000 00000</span>
                     </div>
                     <div className="box">
-                        <h3>FOOTBALL</h3>
+                        <h3>TOP STORIES</h3>
                         <div className="item">
                             <img src="../images/hero/football1.jpg" alt="" />
                             <p>
@@ -33,7 +33,7 @@ const Footer = () => {
                     </div>
 
                     <div className="box">
-                        <h3>BASKETBALL</h3>
+                        <h3></h3>
                         <div className="item">
                             <img src="../images/hero/basketball4.jpg" alt="" />
                             <p>
@@ -49,10 +49,10 @@ const Footer = () => {
                     </div>
                     <div className="box">
                         <h3>LINKS</h3>
-                        <ul><li>Boxing</li></ul>
-                        <ul><li>Volleyball</li></ul>
-                        <ul><li>Athletics</li></ul>
-                        <ul><li>Cricket</li></ul>
+                        <ul><li>Home</li></ul>
+                        <ul><li>About Us</li></ul>
+                        <ul><li>Subscribe</li></ul>
+                        <ul><li>Connect With Us</li></ul>
                     </div>
                 </div>
             </footer>
